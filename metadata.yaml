@@ -1,4 +1,8 @@
 _repo: Der-Weltkrieg-Deutsche-Traume_49656
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 49656-h/images/cover.jpg
 creator:
   author:
     agent_name: Niemann, August
@@ -11,6 +15,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/790
     wikipedia: http://de.wikipedia.org/wiki/August_Niemann
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/49656#Der-Weltkrieg-Deutsche-Traume
 gutenberg_issued: '2015-08-08'
 gutenberg_type: Text
 identifiers:
